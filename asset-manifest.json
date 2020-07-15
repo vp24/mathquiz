@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mathquiz/static/css/main.ea275c24.chunk.css",
+    "main.js": "/mathquiz/static/js/main.74989b93.chunk.js",
+    "main.js.map": "/mathquiz/static/js/main.74989b93.chunk.js.map",
+    "runtime-main.js": "/mathquiz/static/js/runtime-main.9333d898.js",
+    "runtime-main.js.map": "/mathquiz/static/js/runtime-main.9333d898.js.map",
+    "static/js/2.9aa03823.chunk.js": "/mathquiz/static/js/2.9aa03823.chunk.js",
+    "static/js/2.9aa03823.chunk.js.map": "/mathquiz/static/js/2.9aa03823.chunk.js.map",
+    "index.html": "/mathquiz/index.html",
+    "precache-manifest.7c2949c35452941fa45a8f702401ab17.js": "/mathquiz/precache-manifest.7c2949c35452941fa45a8f702401ab17.js",
+    "service-worker.js": "/mathquiz/service-worker.js",
+    "static/css/main.ea275c24.chunk.css.map": "/mathquiz/static/css/main.ea275c24.chunk.css.map",
+    "static/js/2.9aa03823.chunk.js.LICENSE.txt": "/mathquiz/static/js/2.9aa03823.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9333d898.js",
+    "static/js/2.9aa03823.chunk.js",
+    "static/css/main.ea275c24.chunk.css",
+    "static/js/main.74989b93.chunk.js"
+  ]
+}
