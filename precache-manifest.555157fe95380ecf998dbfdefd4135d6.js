@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fe2b8c059fdff70d5fa18814264f3c7",
+    "revision": "6109b4c0354faead4f21509895766ee6",
     "url": "/mathquiz/index.html"
   },
   {
-    "revision": "40e8102818a1a3e9d0c1",
+    "revision": "397e29d9a02362b1713f",
     "url": "/mathquiz/static/css/main.37012a95.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mathquiz/static/js/2.9aa03823.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40e8102818a1a3e9d0c1",
-    "url": "/mathquiz/static/js/main.d1f616f9.chunk.js"
+    "revision": "397e29d9a02362b1713f",
+    "url": "/mathquiz/static/js/main.a2877d1e.chunk.js"
   },
   {
     "revision": "84d5cd8882d9e4d5e6be",
