@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e29f98de6b29903ee4b936d812c38d45",
+    "revision": "3fe2b8c059fdff70d5fa18814264f3c7",
     "url": "/mathquiz/index.html"
   },
   {
-    "revision": "03202afd7c6b8a2ccbe5",
-    "url": "/mathquiz/static/css/main.ea275c24.chunk.css"
+    "revision": "40e8102818a1a3e9d0c1",
+    "url": "/mathquiz/static/css/main.37012a95.chunk.css"
   },
   {
     "revision": "b0c7276852eec0a4ba8d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mathquiz/static/js/2.9aa03823.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03202afd7c6b8a2ccbe5",
-    "url": "/mathquiz/static/js/main.74989b93.chunk.js"
+    "revision": "40e8102818a1a3e9d0c1",
+    "url": "/mathquiz/static/js/main.d1f616f9.chunk.js"
   },
   {
     "revision": "84d5cd8882d9e4d5e6be",
