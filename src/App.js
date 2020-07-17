@@ -56,7 +56,7 @@ class App extends React.Component {
       toStartPage: false
     }, this.setNums());
     const interval = setInterval(() => {
-      console.log('This will run every second!');
+      //console.log('This will run every second!');
 
       if(this.state.maxQuestionNumber+1 > this.state.currentQuestionNumber && this.state.timeCurrentlyDowning === true){
       this.setState(prevState => ({
